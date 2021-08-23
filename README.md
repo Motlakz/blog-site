@@ -25,7 +25,7 @@ Users should be able to:
 
 ### My Process
 
-I watched a tutorial from Geek Probin on how to create a responsive blog site and used some of the layout for inspiration. I applied my own CSS Flexbox concepts to the navbar and header image, followed by CS Grid to position the art design images across mobile and desktop. These were then followed by some simple DOM Manipulation to toggle the responsive navbar menu to slide down from atop the page. 
+I watched a tutorial from Geek Probin on how to create a responsive blog site and used some of the layout for inspiration. I applied my own CSS Flexbox concepts to the navbar and header image, followed by CSS Grid to position the art design images across mobile and desktop. These were then followed by some simple DOM Manipulation to toggle the responsive navbar menu to slide down from atop the page. 
 
 ### Built with
 
